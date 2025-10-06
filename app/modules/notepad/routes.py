@@ -7,6 +7,7 @@ from app.modules.notepad.services import NotepadService
 
 notepad_service = NotepadService()
 
+
 '''
 READ ALL
 '''
